@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 
 body {
-  background-color: #ffffff;
+  background-color: #f0bcb9;
   color: #333;
   line-height: 1.6;
   font-family: "Nunito", sans-serif;
@@ -27,11 +27,11 @@ body {
   border-color: #dbedc9;
 }
 .bg-card {
-  background-color: #ffffff;
+  background-color: #f0bcb9;
   color: #333;
 }
 .navbar {
-  background-color: #ffffff;
+  background-color: #f0bcb9;
   color: #333;
 }
 .text-gradient {
