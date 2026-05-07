@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 
 body {
-  background-color: #f0bcb9;
-  color: #485b76;
+  background-color: #ffffff;
+  color: #333;
   line-height: 1.6;
   font-family: "Nunito", sans-serif;
 }
@@ -17,8 +17,8 @@ body {
   color: #485b76;
 }
 .bg-secondary {
-  background-color: #ebf9e1;
-  color: #1c655d;
+  background-color: #f0bcb9;
+  color: #485b76;
 }
 .hover\:bg-secondary:hover {
   background-color: #dedede;
